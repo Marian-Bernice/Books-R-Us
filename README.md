@@ -2,20 +2,16 @@
 About Books-R-Us
 
 Business Plan
-
 Books-R-Us bookstore is home to diverse titles from all over Africa. They stock a rich collection of both traditionally published and self-published literature from all over the continent. A lot of Africans want to be more immersed in their culture and patronize made in Africa products, including books, to know more about their roots. The goal of the Books-R-Us website is to make African literature, either for leisure or academic purposes, more accessible.
 
 Value Proposition
-
 Value Proposition refers to the fundamental need that your company is trying to fulfil for its customers; that is, why your company exists. Simply put, what value are you providing to your customers? Books-R- Us provides an online shopping website that offers and delivers African hardcopy books to African countries. They deliver the books directly to the recipients, considering the comfort of the customer, as the books are available to them at the click of a button. This website would allow you to not only find books written by African authors easily, but also give reviews. The main aim of this is to promote the art of African storytelling.
 
 Revenue Stream Model
-
 Our primary source of revenue would be the low-profit margin on the sales of books. The available books will be advertised on the website’s homepage and social media pages for users to purchase.
 
 
 System Design
-
 High-Level Systems Overview and Architecture
 The Books-R-Us e-commerce application will be built based on the Model-View-Controller Framework.
 Model-View-Controller
@@ -28,12 +24,10 @@ process all incoming requests from users.
 
 
 Implementation
-
 The Books-R-Us ecommerce platform was developed using the incremental model of software development. The requirements for the project were divided into smaller projects and developed individually; one after the other. This allowed for changes to be easily made at each iteration. To produce an efficient and well-functioning product, functional programming was utilized in building the platform. It enabled us make changes easily to various functions and overall functionality of the platform. Frameworks, APIs, classes, tools and libraries were also included in the development of the platform. Hosting of the platform was done on Microsoft Azure.
 
 
 Technologies Used
-
 For the project, we used various programming languages, including;
 - HTML – HTML is the abbreviated form of Hypertext Markup Language. It is a programming language used in the creation of documents that are displayed in web browsers. HTML is one of the languages the team used in developing the front-end of the platform.
 - CSS – CSS stands for Cascading Style Sheet. CSS is the programming language utilized in designing HTML documents. CSS enables the use of fonts, colours and layouts on web pages. It was also used in developing the front-end. Both inline and external CSS was utilized for this project. It was used in designing the login and registration pages, the shop page and all the pages with exceptional designs.
@@ -44,15 +38,12 @@ SQL. In creating the database, 12 tables were needed to store all the informatio
 
 
 Frameworks
-
 - Bootstrap – Bootstrap is an open-source front-end framework. It contains CSS, JavaScript and HTML based templates for responsive web development. Bootstrap helped us to get access to components that helped in creating elements like the navbar, the homepage slider/ carousel, login and registration cards, products display page, etc.
 
 Libraries
-
 - jQuery – jQuery is an open-source JavaScript library. It contains features such as HTML manipulation, CSS manipulation, effects and animations, HTML events methods and AJAX.
 
 Tools
-
 - PhpMyAdmin – It is an open-source administration tool used for MySQL. It was used to easily create the database for the project.
 - GitHub – GitHub is an open-source code hosting platform. The team utilized it to enable easy collaboration. All codes were shared in one folder which was accessible to every team member.
 - Visual Studio Code – Visual Studio Code is a cross-platform integrated development environment. Its main purpose is code writing and editing. It easily integrates different programming languages. It also has a live share feature which enables programmers to collaborate and edit code live.
